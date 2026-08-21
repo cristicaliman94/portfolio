@@ -1,5 +1,4 @@
 # portfolio
-projects portfolio
 
 Includes
 
